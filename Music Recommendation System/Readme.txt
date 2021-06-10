@@ -1,3 +1,7 @@
+# Music Recommendation System
+
+####Here is the [repository](https://github.com/kushal1999seemakurthi/machine_learning/tree/main/Music%20Recommendation%20System) of the project.
+
 songs: contains id for songs   (9938 x 1) 
 user: contains user id              (3863 x 1)  
 meta : contains meta data like song id, artist name, year ,title  
